@@ -13,11 +13,10 @@ To design a modern and user-friendly travel booking interface.
 - Booking interface design
 
 ## 📸 Screens
-<img width="1163" height="632" alt="Travel Website1" src="https://github.com/user-attachments/assets/94462cde-a791-4d4e-a4cb-3247370f43ce" />
-<img width="1209" height="636" alt="Travel Website2" src="https://github.com/user-attachments/assets/2fd6a474-cd2b-4373-b78f-638095e0b63b" /> 
-<img width="1202" height="618" alt="Travel Website3" src="https://github.com/user-attachments/assets/707c24d2-432c-430d-bd3a-bcebba4933fc" />
-<img width="1147" height="620" alt="Travel Website4" src="https://github.com/user-attachments/assets/eabd0682-cbae-4fc3-8b00-d27f89a7c0b2" />
-<img width="1164" height="627" alt="Travel Website5" src="https://github.com/user-attachments/assets/949e9797-af53-46f7-a781-2da46083e6ae" />
+<img width="750" height="1334" alt="www figma com_proto_IeKv6yM2SDz070yw6y3hnV_Travel-Website_node-id=25-12 t=Rfox3DdyS7fTzMb8-1(iPhone SE) (2)" src="https://github.com/user-attachments/assets/71a61a37-3e7f-4e7b-b00e-c214168b242d" />
+<img width="750" height="1334" alt="www figma com_proto_IeKv6yM2SDz070yw6y3hnV_Travel-Website_node-id=25-12 t=Rfox3DdyS7fTzMb8-1(iPhone SE) (1)" src="https://github.com/user-attachments/assets/b62cb4c0-9598-4f62-a3da-3c4035f0746e" />
+<img width="750" height="1334" alt="www figma com_proto_IeKv6yM2SDz070yw6y3hnV_Travel-Website_node-id=25-12 t=Rfox3DdyS7fTzMb8-1(iPhone SE)" src="https://github.com/user-attachments/assets/d3458c82-2962-4fbd-86a1-86c3556012fd" />
+<img width="1024" height="1108" alt="www figma com_proto_IeKv6yM2SDz070yw6y3hnV_Travel-Website_node-id=25-12 t=Rfox3DdyS7fTzMb8-1" src="https://github.com/user-attachments/assets/acde3881-fa13-4a25-8564-9107be86997a" />
 
 
 ## 🔗 Figma Link
